@@ -78,14 +78,14 @@
     {
       "id": 1,
       "title": "Project Start",
-      "content": "We realized that we want more drinking fountains in Berlin.",
+      "content": "The initiative was officially kickstarted as the part of the citizen activation program of the Club Dialog e.V. ",
       "date": "2025-05",
       "project": [1, 2]
     },
     {
       "id": 2,
-      "title": "Letter to Berliner Wasserbetriebe",
-      "content": "We wrote a letter to Berliner Wasserbetriebe with a proposal to add existing drinking fountains to Google Maps and a question about the possibility of installing new drinking fountains in Pankow. Waiting for response.",
+      "title": "Engagement with Berliner Wasserbetriebe",
+      "content": "Fountain location suggestion in Pankow accepted and added to the list for future consideration",
       "date": "2025-07",
       "project": [2]
     },
@@ -98,15 +98,15 @@
     },
     {
       "id": 4,
-      "title": "Letter to VBB Pankow",
-      "content": "We contacted VBB Pankow with a question about plans for installing drinking fountains and a proposal to install them at two actively used playgrounds. Waiting for response.",
+      "title": "Engagement with the BVV Pankow",
+      "content": "We started a discussion around submitting the citizen’s petition on behalf of the Left faction of BVV Pankow",
       "date": "2025-07",
       "project": [2]
     },
     {
       "id": 5,
-      "title": "Beta version of map available for testing",
-      "content": "We created a beta version of the map where you can find drinking fountains in Pankow and shared it with other project participants.",
+      "title": "Water Map Beta",
+      "content": "We released a beta version of our map showing all known public water points in Pankow, and shared it for testing with other organizations.",
       "date": "2025-07",
       "project": [1]
     },
